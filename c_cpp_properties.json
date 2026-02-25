@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "C:\\Users\\Rohan\\.arduinoIDE\\xtensa-esp-elf\\bin\\xtensa-esp32-elf-gcc.exe",
+            "intelliSenseMode": "windows-gcc-x64",
+            "includePath": [
+                "C:\\Users\\Rohan\\.arduinoIDE\\arduino-esp32-3.3.7\\**",
+                "C:\\Users\\Rohan\\.arduinoIDE\\arduino-esp32-3.3.7\\cores\\esp32\\**",
+                "C:\\Users\\Rohan\\.arduinoIDE\\arduino-esp32-3.3.7\\tools\\**",
+                "C:\\Users\\Rohan\\.arduinoIDE\\arduino-esp32-3.3.7\\libraries\\WiFi\\src\\**",
+                "C:\\Users\\Rohan\\.arduinoIDE\\arduino-esp32-3.3.7\\variants\\esp32\\**"
+            ]
+        }
+    ],
+    "version": 4
+}
